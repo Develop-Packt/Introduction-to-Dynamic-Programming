@@ -1,2 +1,5 @@
-# Introduction-to-Dynamic-Programming
-The module introduces dynamic programming using an example of coin-exchange. Then we go over to how and why it is used in Reinforcement Learning. The module also covers classic dynamic programming algorithms.
+# Introduction to Dynamic Programming
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-Dynamic-Programming/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-Dynamic-Programming/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Dynamic-Programming.svg)](https://github.com/Develop-Packt/Introduction-to-Dynamic-Programming/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Dynamic-Programming/pulls)
